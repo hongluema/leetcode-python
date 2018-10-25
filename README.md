@@ -26,11 +26,15 @@ LeetCode use Python :memo:
 
 [026-Remove Duplicates from Sorted Array](https://github.com/twtrubiks/leetcode-python/blob/master/Remove_Duplicates_from_Sorted_Array_026.py) - youtube tutorial [待新增026 Remove Duplicates from Sorted Array](xxx) - [explanation](https://github.com/twtrubiks/leetcode-python/blob/master/Remove_Duplicates_from_Sorted_Array_026_explanation.py)
 
-[027-Remove Element](https://github.com/twtrubiks/leetcode-python/blob/master/Remove_Element_027.py) - youtube tutorial [待新增027Remove Element](xxx)
+[027-Remove Element](https://github.com/twtrubiks/leetcode-python/blob/master/Remove_Element_027.py) - youtube tutorial [待新增027Remove Element](xxx) - [explanation](https://github.com/twtrubiks/leetcode-python/blob/master/Remove_Element_027_explanation.py)
 
-[028-Implement strStr](https://github.com/twtrubiks/leetcode-python/blob/master/Implement_strStr_028.py) - youtube tutorial [待新增028Implement strStr()](xxx)
+[028-Implement strStr()](https://github.com/twtrubiks/leetcode-python/blob/master/Implement_strStr_028.py) - youtube tutorial [待新增028Implement strStr()](xxx)
 
-[035-Search Insert Position](https://github.com/twtrubiks/leetcode-python/blob/master/Search_Insert_Position_035.py) - youtube tutorial [待新增035Search Insert Position](xxx) 
+[035-Search Insert Position](https://github.com/twtrubiks/leetcode-python/blob/master/Search_Insert_Position_035.py) - youtube tutorial [待新增035Search Insert Position](xxx)
+
+[038-Count and Say](https://github.com/twtrubiks/leetcode-python/blob/master/Count_and_Say_038.py) - youtube tutorial [待新增038Count and Say](xxx)
+
+ 
 
 ## 執行環境
 
